@@ -1,2 +1,2 @@
-require("price")
-print("hellooooo")
+require("config.lazy")
+require("binds")
